@@ -1,11 +1,13 @@
 ![img](https://i.imgur.com/S3rXlxb.gif)
 # Godot Logo redesign
-The Godot Team + Contributors got me inspired with the release of 4.6. I wanted to make a logo reflective of all their hardwork throughout the years. 
-Every update makes Godot feel better, modern, and new. I like the traditional logo ALOT (Credit to Andrea Calabró) so i tried my best to keep the essence 
-of it and not change too much. I also noticed [Tibo's 3D Plushie Model](https://github.com/gtibo/Godot-Plush-Character) being used a handful of times 
-during major updates. Another big source of inspiration for the design. Hope you all like it if you're looking for something new to slap on the splash screen. 
+The Godot Team + Contributors got me inspired with the release of 4.6. I wanted to make a logo reflective of all the hardwork they put in to make 
+this engine feel better, new, and modern. I like the traditional logo ALOT (Credit to Andrea Calabró) so I tried my best to keep the essence of it
+and not change too much. I also noticed [Tibo's 3D Plushie Model](https://github.com/gtibo/Godot-Plush-Character) being used a handful of times 
+during major updates. Another big source of inspiration for the design. If you're looking for something new to slap on the splash screen, Hope this is it!<br> 
 
 -Happy game deving! 
 
 # Whats In the zip? 
-SVG files
+Diffrent variations of the redesigned logo along with press kit material you'd find on https://godotengine.org/press/
+<br>all in SVG and PNG format:
+![img](https://i.imgur.com/S3rXlxb.gif)
