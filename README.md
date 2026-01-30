@@ -10,4 +10,5 @@ during major updates. Another big source of inspiration for the design with my o
 # Whats In the zip? 
 Diffrent variations of the redesigned logo along with press kit material you'd find on https://godotengine.org/press/
 <br>all in SVG and PNG format:
-![img](https://i.imgur.com/S3rXlxb.gif)
+
+![img](https://i.imgur.com/b9cobaF.jpeg[/img])
