@@ -1,4 +1,4 @@
-![img](https://i.imgur.com/S3rXlxb.gif)
+![img](https://i.imgur.com/rLbXgje.gif)
 # Godot Logo redesign
 The Godot Team + Contributors got me inspired with the release of 4.6. I wanted to make a logo reflective of all the hardwork they put in to make 
 this engine feel better, new, and modern. I like the current logo ALOT (Credit to Andrea Calabró) so I tried my best to keep the essence of it
@@ -10,4 +10,4 @@ during major updates. Another big source of inspiration for the design with my o
 Diffrent variations of the redesigned logo along with engine name you'd find on https://godotengine.org/press/
 <br>all in SVG and PNG format:
 
-![img](https://i.imgur.com/b9cobaF.jpeg[/img])
+![img](https://i.imgur.com/qp8u6JP.jpeg[/img])
